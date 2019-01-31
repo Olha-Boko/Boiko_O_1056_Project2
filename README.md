@@ -1,1 +1,3 @@
-# Boiko_O_1056_Project2
+# Project 2: Web Typography
+STYLING TEXT ON THE WEB
+Olha Boiko
